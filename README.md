@@ -3,7 +3,7 @@ CourseProject_GettingAndCleaningData
 
 This repository contains the analysis of data collected from the Samsung Galaxy S smartphone.  
 The data for the project is here:  
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The above dataset contains measurements from accelerometer and gyroscope embeded into smart phone of 30 subjects.  
 Measurements were taking during 6 types of activities:  
