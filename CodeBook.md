@@ -3,9 +3,9 @@ Summary_Means_BySubject_By_Activity.txt is a dataframe with 180 rows and 68 colu
 
 Each row provides average values of mean and standard deviation for 66 variables for each subject for each activity (30 subjects * 6 activities/subject = 180 rows)
 
-VariableName	Description  
-Subject_ID	subject identifier, factor variable, (1-30)  
-Activity_Name	activity name, factor variable, (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)  
+VariableName  
+Subject_ID: subject identifier, factor variable, (1-30)  
+Activity_Name: activity name, factor variable, (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)  
 
 The remaining 66 variables are the means and standard deviations of time and frequency domain variables (see features_info.txt for details)
 
