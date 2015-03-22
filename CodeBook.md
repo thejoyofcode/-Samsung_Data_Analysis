@@ -1,5 +1,6 @@
 
 Summary_Means_BySubject_By_Activity.txt is a dataframe with 180 rows and 68 columns
+
 Each row provides average values of mean and standard deviation for 66 variables for each subject for each activity (30 subjects * 6 activities/subject = 180 rows)
 
 VariableName	Description
